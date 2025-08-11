@@ -15,7 +15,7 @@
 import { ref } from 'vue'
 const photos = ref([
   { src: '/photos/1.jpg', alt: '첫 만남' },
-  { src: '/photos/2.jpg', alt: '데이트' },
+  { src: '/photos/5.jpg', alt: '데이트' },
   { src: '/photos/3.jpg', alt: '프러포즈' },
   { src: '/photos/4.jpg', alt: '약혼' }
 ])
