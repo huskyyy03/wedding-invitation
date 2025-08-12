@@ -1,5 +1,5 @@
 <template>
-  <section class="contact-info bg-white py-12">
+  <section class="contact-info bg-white py-12 mx-auto w-[430px]">
     <div class="container mx-auto px-6 max-w-md text-center">
       <h2 class="text-2xl font-bold text-gray-800 mb-6">참석 의사 전달</h2>
       <p class="mb-4 text-gray-700">

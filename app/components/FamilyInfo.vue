@@ -1,6 +1,6 @@
 <template>
   <section class="family-info bg-white py-12">
-    <div class="container mx-auto px-6 max-w-md text-center">
+    <div class="container mx-auto px-6 max-w-md text-center w-[430px]">
       <h2 class="text-2xl font-bold text-gray-800 mb-8">혼주 정보</h2>
       <div class="grid grid-cols-2 gap-6">
         <div class="text-center">

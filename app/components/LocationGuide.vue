@@ -1,5 +1,5 @@
 <template>
-  <section class="location-guide bg-gray-50 py-12">
+  <section class="location-guide bg-gray-50 py-12 mx-auto w-[430px]">
     <div class="container mx-auto px-6 max-w-md text-center">
       <h2 class="text-2xl font-bold text-gray-800 mb-8">찾아오시는 길</h2>
       <p class="mb-4">서울 강남구 선릉로 757, 더채플앳청담 6층 채플홀</p>

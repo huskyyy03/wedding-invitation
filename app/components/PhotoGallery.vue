@@ -1,5 +1,5 @@
 <template>
-  <section class="photo-gallery bg-gray-50 py-12">
+  <section class="photo-gallery bg-gray-50 py-12 mx-auto w-[430px]">
     <div class="container mx-auto px-6 max-w-md">
       <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">우리의 이야기</h2>
       <div class="grid grid-cols-2 gap-3 mb-4">

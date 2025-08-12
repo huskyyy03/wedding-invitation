@@ -1,8 +1,8 @@
 <template>
-  <section class="wedding-info bg-white py-12">
+  <section class="wedding-info bg-white py-12 mx-auto w-[430px]">
     <div class="container mx-auto px-6 max-w-md text-center">
       <h2 class="text-2xl font-bold text-gray-800 mb-8">결혼식 안내</h2>
-      <div class="bg-rose-50 p-6 rounded-lg shadow-md">
+      <div class="bg-white-50 p-6 rounded-lg shadow-md">
         <div class="mb-4">
           <p class="text-sm text-gray-600">날짜</p>
           <p class="text-xl font-medium text-rose-800">2025년 10월 19일 일요일</p>
